@@ -1,0 +1,38 @@
+button{
+    background: #92E3A9;
+    box-shadow: 0px 4px 10px #A1C3FC;
+    width: 308px;
+    height: 54px;
+    top:583px;
+    margin-bottom: 19.99%;
+}
+.continue{
+    align-items: center;
+    font-family: var(--fonte-principal);
+    font-size: 18px;
+    font-weight: 500;
+    border: none;
+    color: #FFFFFF;
+    margin-bottom: 19.99%;
+}
+a{
+    display: flex;
+    flex-direction: column;
+    font-family: var(--fonte-principal);
+    text-decoration: none;
+    align-items: center;
+    text-align: center;
+    color: #92E3A9;
+}
+ .point{
+    margin-bottom: 55%; 
+}
+.Get-started{
+    align-items: center;
+    font-family: var(--fonte-principal);
+    font-size: 18px;
+    font-weight: 500;
+    border: none;
+    color: #FFFFFF;
+    margin-bottom: 19.99%;
+}
